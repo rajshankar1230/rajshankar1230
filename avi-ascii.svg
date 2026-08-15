@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 534 524" width="534" height="524">
+<style>
+  .term-text { font-family: "Courier New", monospace; font-size: 11px; fill: #58a6ff; white-space: pre; }
+  .row { opacity: 0; animation: typeRow 0.05s forwards; }
+  @keyframes typeRow { to { opacity: 1; } }
+</style>
+<rect width="100%" height="100%" fill="#0d1117" rx="6" stroke="#30363d"/>
+<text x="15" y="25" class="term-text row" style="animation-delay: 0.0s;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="38" class="term-text row" style="animation-delay: 0.035s;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#s*++====**c%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="51" class="term-text row" style="animation-delay: 0.07s;">@@@@@@@@@@@@@@@@@@@@@@@@%s+:....          :c@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="64" class="term-text row" style="animation-delay: 0.105s;">@@@@@@@@@@@@@@@@@@@@@@@#:`.                 :#@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="77" class="term-text row" style="animation-delay: 0.14s;">@@@@@@@@@@@@@@@@@@@@@@*.:.                    c@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="90" class="term-text row" style="animation-delay: 0.175s;">@@@@@@@@@@@@@@@@@@@@@+ ``.                    .%@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="103" class="term-text row" style="animation-delay: 0.21s;">@@@@@@@@@@@@@@@@@@@@s           ...````.       :%@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="116" class="term-text row" style="animation-delay: 0.245s;">@@@@@@@@@@@@@@@@@@@@*       `-==+++====-:.      :@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="129" class="term-text row" style="animation-delay: 0.28s;">@@@@@@@@@@@@@@@@@@@@%:    `=+*******++===-      :@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="142" class="term-text row" style="animation-delay: 0.315s;">@@@@@@@@@@@@@@@@@@@@@*   -*c*+=+***+=-:::-:     *@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="155" class="term-text row" style="animation-delay: 0.35s;">@@@@@@@@@@@@@@@@@@@@@#.:+#*=--:`=*+-::-``:-===. %@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="168" class="term-text row" style="animation-delay: 0.385s;">@@@@@@@@@@@@@@@@@@@@@@##@*:::-:`++++.`:.`.`=*--+@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="181" class="term-text row" style="animation-delay: 0.42s;">@@@@@@@@@@@@@@@@@@@@@@s=#c+=``:-c#*-``..:`:++  -%@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="194" class="term-text row" style="animation-delay: 0.455s;">@@@@@@@@@@@@@@@@@@@@@#+*%#%%scs#@@c===++++**+```c@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="207" class="term-text row" style="animation-delay: 0.49s;">@@@@@@@@@@@@@@@@@@@@@%s+@@##@@%scc+--=+***+=+..:c@%@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="220" class="term-text row" style="animation-delay: 0.525s;">@@@@@@@@@@@@@@@@@@@@@@%+#%%%scs=.`..`-+*+++=- .:#%%@@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="233" class="term-text row" style="animation-delay: 0.56s;">@@@@@@@@@@@@@@@@@@@@@@@s+###s++*=:``.``:====. `+%#%%@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="246" class="term-text row" style="animation-delay: 0.595s;">@@@@@@@@@@@@@@@@@@@@@@@%+*cs+.:=+-::`.  --:. +c####%@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="259" class="term-text row" style="animation-delay: 0.63s;">@@@@@@@@@@@@@@@@@@@@@@@@#-*c=-=-:``.....-:. :%#####%@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="272" class="term-text row" style="animation-delay: 0.665s;">@@@@@@@@@@@@@@@@@@@@@@@@@*`==-=*+-`..`. .. .s#####%%@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="285" class="term-text row" style="animation-delay: 0.7s;">@@@@@@@@@@@@@@@@@@@@@@@@@@+  `:-:``.       -%#####%%@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="298" class="term-text row" style="animation-delay: 0.735s;">@@@@@@@@@@@@@@@@@@@@@@@@@%c+              ::+#####%%@@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="311" class="term-text row" style="animation-delay: 0.77s;">@@@@@@@@@@@@@@@@@@@@@@@@c.`c+`          .::. :c###%%%@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="324" class="term-text row" style="animation-delay: 0.805s;">@@@@@@@@@@@@@@@@@@@@%s*-  .`++-`   .  .`::.    -+cs#%@@@@@@@@@@@@@@@@@</text>
+<text x="15" y="337" class="term-text row" style="animation-delay: 0.84s;">@@@@@@@@@@@@@@@@%s+:       ..=+=:`...````          .:=*s%@@@@@@@@@@@@@</text>
+<text x="15" y="350" class="term-text row" style="animation-delay: 0.875s;">@@@@@@@@@@@%#s+-`    ..    .. -=--:::``.                .`-=*s%@@@@@@@</text>
+<text x="15" y="363" class="term-text row" style="animation-delay: 0.91s;">@@@@@%#c+=:``..             .  .:::```.                        .:=c#@@</text>
+<text x="15" y="376" class="term-text row" style="animation-delay: 0.945s;">@@#+=:`...`...                   .````.                             c@</text>
+<text x="15" y="389" class="term-text row" style="animation-delay: 0.98s;">@#. ``````..                      .-`                                %</text>
+<text x="15" y="402" class="term-text row" style="animation-delay: 1.015s;">@+  .....                          .                                 -</text>
+<text x="15" y="415" class="term-text row" style="animation-delay: 1.05s;">@.                                                                    </text>
+<text x="15" y="428" class="term-text row" style="animation-delay: 1.085s;">+                                                                     </text>
+<text x="15" y="441" class="term-text row" style="animation-delay: 1.12s;">                                                                      </text>
+<text x="15" y="454" class="term-text row" style="animation-delay: 1.155s;">                                                                      </text>
+<text x="15" y="467" class="term-text row" style="animation-delay: 1.19s;">                                                                      </text>
+<text x="15" y="480" class="term-text row" style="animation-delay: 1.225s;">                                                                 +c.  </text>
+<text x="15" y="493" class="term-text row" style="animation-delay: 1.26s;">                                                                 -+.  </text>
+<text x="15" y="506" class="term-text row" style="animation-delay: 1.295s;">                                                                      </text>
+</svg>

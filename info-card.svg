@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 360" width="490" height="360">
+<style>
+  .title { font-family: monospace; font-size: 14px; font-weight: bold; fill: #58a6ff; }
+  .key { font-family: monospace; font-size: 12px; fill: #7ee787; font-weight: bold; }
+  .val { font-family: monospace; font-size: 12px; fill: #c9d1d9; }
+  .line { opacity: 0; animation: fadeIn 0.4s forwards; }
+  @keyframes fadeIn { to { opacity: 1; } }
+</style>
+<rect width="100%" height="100%" fill="#0d1117" rx="6" stroke="#30363d"/>
+<text x="20" y="35" class="title">&gt; neofetch --minimal</text>
+<line x1="20" y1="48" x2="470" y2="48" stroke="#30363d" />
+<g class="line" style="animation-delay: 0.2s;">
+  <text x="20" y="80" class="key">user:</text>
+  <text x="100" y="80" class="val">rajshankar1230@github</text>
+</g>
+<g class="line" style="animation-delay: 0.3s;">
+  <text x="20" y="116" class="key">os:</text>
+  <text x="100" y="116" class="val">Windows / Linux</text>
+</g>
+<g class="line" style="animation-delay: 0.4s;">
+  <text x="20" y="152" class="key">stack:</text>
+  <text x="100" y="152" class="val">Python, Git, Web</text>
+</g>
+<g class="line" style="animation-delay: 0.5s;">
+  <text x="20" y="188" class="key">focus:</text>
+  <text x="100" y="188" class="val">Software Development</text>
+</g>
+<g class="line" style="animation-delay: 0.6s;">
+  <text x="20" y="224" class="key">editor:</text>
+  <text x="100" y="224" class="val">VS Code</text>
+</g>
+<g class="line" style="animation-delay: 0.7s;">
+  <text x="20" y="260" class="key">status:</text>
+  <text x="100" y="260" class="val">Building cool things</text>
+</g>
+</svg>
