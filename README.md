@@ -13,10 +13,7 @@ cat << 'EOF' > README.md
     <td valign="top"><img src="./info-card.svg" width="490" /></td>
   </tr>
 </table>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajshankar1230&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshankar1230&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
 
 <br>
 
