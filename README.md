@@ -13,6 +13,10 @@ cat << 'EOF' > README.md
     <td valign="top"><img src="./info-card.svg" width="490" /></td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajshankar1230&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshankar1230&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 <br>
 
@@ -35,6 +39,6 @@ cat << 'EOF' > README.md
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajshankar1230&theme=github-compact" width="860" />
 </div>
 EOF
