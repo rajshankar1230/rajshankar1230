@@ -322,7 +322,7 @@
 <rect class="cell" x="690" y="135" width="11" height="11" fill="#161b22" rx="2" style="animation-delay: 0.75s;" />
 <rect class="cell" x="705" y="45" width="11" height="11" fill="#161b22" rx="2" style="animation-delay: 0.675s;" />
 <rect class="cell" x="705" y="60" width="11" height="11" fill="#0e4429" rx="2" style="animation-delay: 0.69s;" />
-<rect class="cell" x="705" y="75" width="11" height="11" fill="#161b22" rx="2" style="animation-delay: 0.705s;" />
+<rect class="cell" x="705" y="75" width="11" height="11" fill="#0e4429" rx="2" style="animation-delay: 0.705s;" />
 <rect class="cell" x="705" y="90" width="11" height="11" fill="#161b22" rx="2" style="animation-delay: 0.72s;" />
 <rect class="cell" x="705" y="105" width="11" height="11" fill="#161b22" rx="2" style="animation-delay: 0.735s;" />
 <rect class="cell" x="705" y="120" width="11" height="11" fill="#161b22" rx="2" style="animation-delay: 0.75s;" />
@@ -375,4 +375,5 @@
 <rect class="cell" x="810" y="90" width="11" height="11" fill="#161b22" rx="2" style="animation-delay: 0.825s;" />
 <rect class="cell" x="810" y="105" width="11" height="11" fill="#0e4429" rx="2" style="animation-delay: 0.84s;" />
 <rect class="cell" x="810" y="120" width="11" height="11" fill="#006d32" rx="2" style="animation-delay: 0.855s;" />
+<rect class="cell" x="810" y="135" width="11" height="11" fill="#161b22" rx="2" style="animation-delay: 0.87s;" />
 </svg>
